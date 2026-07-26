@@ -1,4 +1,4 @@
-SENTIMENT ANALYSIS OF AMAZON PRODUCT REVIEW
+SENTIMENT ANALYSIS OF AMAZON PRODUCT REVIEWS
 
 Extracted positive and negative sentiments from ratings utilizing word count vector and a sentiment classifier with Logistic Regression, demonstrating the capability to interpret customer reviews and score
 
